@@ -2,6 +2,14 @@
 
 🦭Cumbie CIS 376 Web Dev Spring '25 Midterm Dev Exam
 
+### Authorship
+
+- 3/4/25
+- CIS 376 Midterm
+- https://github.com/barrycumbie/barrycumbie
+- https://codepen.io/barrycumbie/pen/LEPmgdB
+- https://github.com/VicLove25/dev-charlie
+
 ### Resources
 
 - Internet, past projects, and all
