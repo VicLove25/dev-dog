@@ -22,12 +22,12 @@ h4 {
   justify-content: space-around;
 }
 
-.gameInfo {
+/*.gameInfo {
   height: 350px;
   display: flex;
   flex-direction: column;
   justify-content: center;
-}
+ }    */
 
 .shoe{
   height: 250px; 
