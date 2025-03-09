@@ -72,7 +72,7 @@ $(function() {
     score = 0;
     win = getWin();
     // TODO: 🐶18. warn the user that this will reset their score (+5 if not use alert method)  
-    if (confirm("This will reset your score. Are you sure?")) {
+    if (confirm("This will reset your score")) {
       score = 0;
       $('#score').text(score);
       $('.shoe').removeClass('winColor').removeClass('loseColor');
@@ -80,7 +80,6 @@ $(function() {
       win = getWin();
       $('#shellySeal').draggable('enable');
     }
-    alert("This will reset your score")
   });
 
 
