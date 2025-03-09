@@ -4,7 +4,7 @@ $(function() {
     <img src="shoeIcon.png" class="img-fluid"></img>`
   );
   // TODO: 🐶11. this puts the shoes in the shoe class div, but could we **programatically** default out of that 'tomato' color 
-  $('.shoe').css("background", "green");
+  $('.shoe').css("background", "white");
 
   let score = 0; //score initialized at zero each reset
 
