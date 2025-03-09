@@ -22,12 +22,17 @@ h4 {
   justify-content: space-around;
 }
 
-/*.gameInfo {
+.gameInfo {
   height: 350px;
   display: flex;
   flex-direction: column;
   justify-content: center;
- }    */
+ }   
+
+#gameArea {
+  width: 400px;
+  
+  {
 
 .shoe{
   height: 250px; 
